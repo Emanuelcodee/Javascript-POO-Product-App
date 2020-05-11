@@ -5,4 +5,3 @@ Aplicacion de productos  con Javascript Orientado a Objetos
 
 ![](img/image.jpeg)
 
-![Homen letra](https://github.com/professorjosedeassis/c/blob/master/homem%20letra.gif)
